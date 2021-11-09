@@ -35,10 +35,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsHimanshu2001&show_icons=true&theme=onedark&locale=en&layout=compact" alt="itsHimanshu2001"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsHimanshu2001&show_icons=true&theme=dracula&locale=en&layout=compact" alt="itsHimanshu2001"/>
 </p>
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsHimanshu2001&show_icons=true&theme=onedark&locale=en" alt="itsHimanshu2001" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsHimanshu2001&show_icons=true&theme=drakula&locale=en" alt="itsHimanshu2001" />
 </p>
