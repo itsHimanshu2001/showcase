@@ -32,6 +32,15 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
   </a> 
+  <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-12100E?style=for-the-badge&logo=javascript&logoColor=yellow" alt="Js" /> 
+  </a> 
+   <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://img.shields.io/badge/css3-FFA500?style=for-the-badge&logo=css3&logoColor=blue" alt="Js" /> 
+  </a> 
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/html5-ffdb58?style=for-the-badge&logo=html5&logoColor=black" alt="Js" /> 
+  </a> 
 </p>
 
 <p>
