@@ -11,7 +11,7 @@
 
 - 📄 my hackerrank profile [here](https://www.hackerrank.com/itshimanshu)
 
-- ⚡ **I am new to all this stuffs**
+- ⚡ **I am new to all these stuffs**
 
 <h3 align="left">Connect with me:</h3>
 
