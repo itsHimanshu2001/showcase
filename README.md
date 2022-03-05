@@ -51,3 +51,8 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsHimanshu2001&show_icons=true&theme=drakula" alt="itsHimanshu2001" />
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itsHimanshu2001/count.svg" />
+</p>
